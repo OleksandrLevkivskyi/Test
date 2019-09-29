@@ -157,7 +157,7 @@ p {
 }
 
 .star {
-  background-image: url(/img/icon/star.svg);
+  background-image: url(:/img/icon/star.svg);
   width: 26px;
   height: 20px;
   background-position: center;
@@ -165,7 +165,7 @@ p {
 }
 
 .star.disabled {
-  background-image: url(/img/icon/star_white.svg);
+  background-image: url(:/img/icon/star_white.svg);
 }
 
 .portfolio {
